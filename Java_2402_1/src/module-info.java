@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Java_240201 {
+module Java_2402_1 {
 }
