@@ -1,6 +1,6 @@
-package loop;
+package loop_Ex;
 
-public class While_Ex2 {
+public class While2 {
 
 	  public static void main(String[] args) {
 

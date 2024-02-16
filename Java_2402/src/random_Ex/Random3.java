@@ -1,6 +1,6 @@
-package random;
+package random_Ex;
 
-  public class Random_Ex3 {
+  public class Random3 {
     public static void main(String[] args) {
 
     int num = 0;

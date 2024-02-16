@@ -1,6 +1,6 @@
-package loop;
+package loop_Ex;
 
-  public class For_Ex4 {
+  public class For4 {
 	   public static void main(String[] args) {
 
     for (int i = 1, j = 10; i <= 10; i++, j--) {

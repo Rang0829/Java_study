@@ -1,8 +1,8 @@
-package loop;
+package loop_Ex;
 
 import java.util.Scanner;
 
-	public class While_Ex3 {
+	public class While3 {
 		public static void main(String[] args) {
 
 		int num = 0;

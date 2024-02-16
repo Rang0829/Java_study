@@ -1,8 +1,8 @@
-package loop;
+package loop_Ex;
 
 import java.util.Scanner;
 
-	public class DoWhile_Ex1 {
+	public class DoWhile1 {
 		public static void main(String[] args) {
 
 	    int input = 0;
