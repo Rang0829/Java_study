@@ -1,5 +1,6 @@
 package array_Ex;
 
+// ctrl + shift + o 단축키는 자동으로 import문 추가
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
