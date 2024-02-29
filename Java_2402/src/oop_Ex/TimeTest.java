@@ -6,9 +6,14 @@ class Time {
 	private int second;
 	
 	public void setHour(int hour) {
-		if(hour < 0 || hour > 23) return;
+		if(isNotValidHour(hour)) return;
 		
 		this.hour = hour;
+	}
+
+	// 매개변수로 넘겨진 hour가 유효한지 확인해서 알려주는 메서드.
+	private boolean isNotValidHour(int hour) {
+		return hour < 0 || hour > 23;
 	}
 	
 	public int getHour() {
@@ -24,6 +29,5 @@ public class TimeTest {
 		System.out.println(t.getHour());
 		t.setHour(100);
 		System.out.println(t.getHour());
-
 	}
 }
