@@ -1,6 +1,6 @@
 package abstract_Ex;
 
-public class Abstract {
+public class Abstract1 {
 	public static void main(String[] args) {
 		Unit[] group = { new Marine(), new Tank(), new Dropship() };
 //		위의 코드는 아래 4줄과 동일한 의미.
