@@ -1,7 +1,7 @@
 package Exception_Ex;
 
 class TryCatch1 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 			System.out.println(1);			
 			try {
 				System.out.println(2);
